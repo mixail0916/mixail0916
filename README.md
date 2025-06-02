@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=200&section=header&text=Mikhailo%20Pasko&fontSize=50&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Senior%20AI%20Engineer&descSize=20&descAlign=50&animation=twinkling" />
 </p>
 
-**A results-driven AI Engineer building and deploying end-to-end machine learning solutions. Skilled in everything from data pipeline development to production-ready model deployment. Expert in applying advanced deep learning, natural language processing (NLP), and cloud-native technologies to create scalable, intelligent systems that drive automation and innovation. **
+**A results-driven AI Engineer building and deploying end-to-end machine learning solutions. Skilled in everything from data pipeline development to production-ready model deployment. Expert in applying advanced deep learning, natural language processing (NLP), and cloud-native technologies to create scalable, intelligent systems that drive automation and innovation.**
 
 <br/>
 
