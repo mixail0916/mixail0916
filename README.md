@@ -2,8 +2,13 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=200&section=header&text=Mikhailo%20Pasko&fontSize=50&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Senior%20AI%20Engineer&descSize=20&descAlign=50&animation=twinkling" />
 </p>
-<div>
-</div>
+
+**A results-driven AI Engineer building and deploying end-to-end machine learning solutions. Skilled in everything from data pipeline development to production-ready model deployment. Expert in applying advanced deep learning, natural language processing (NLP), and cloud-native technologies to create scalable, intelligent systems that drive automation and innovation. **
+
+<br/>
+
+---
+
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
         <tr>
@@ -125,6 +130,21 @@
     </table>
     <br><br>
 </div>
+
+
+---
+<br />
+
+## 🌟 **Core Competencies**
+
+* **AI/ML Development**: Model training, evaluation, and deployment (CV, NLP, tabular data)
+* **MLOps & Infrastructure**: SageMaker, Vertex AI, MLflow, Docker, Kubernetes, CI/CD for ML
+* **Data Engineering**: Data wrangling, ETL, Spark, SQL/NoSQL, scalable data pipelines
+* **Natural Language Processing**: Transformers, LLMs, summarization, classification, vector search
+* **Model Monitoring**: Drift detection, explainability (SHAP, LIME), performance tracking
+* **Tools**: Python, TensorFlow, PyTorch, Scikit-learn, FastAPI, Git, Jupyter
+
+---
 <br />
 <h2 align="left">📈 My Github History!</h2>
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
@@ -132,7 +152,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixail0916&theme=tokyonight" height="200"/>
 </div>
 
-![Snake](https://github.com/mixail0916/mixail0916/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake](https://github.com/mixail0916/mixail0916/blob/output/github-contribution-grid-snake.svg) -->
 
 <br><br>
 
