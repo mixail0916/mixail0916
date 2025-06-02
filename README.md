@@ -4,7 +4,6 @@
 </p>
 
 **A results-driven AI Engineer building and deploying end-to-end machine learning solutions. Skilled in everything from data pipeline development to production-ready model deployment. Expert in applying advanced deep learning, natural language processing (NLP), and cloud-native technologies to create scalable, intelligent systems that drive automation and innovation.**
-
 <br/>
 
 ---
@@ -128,13 +127,9 @@
             </td>
         </tr>
     </table>
-    <br><br>
 </div>
 
-
 ---
-<br />
-
 ## 🌟 **Core Competencies**
 
 * **AI/ML Development**: Model training, evaluation, and deployment (CV, NLP, tabular data)
@@ -145,7 +140,7 @@
 * **Tools**: Python, TensorFlow, PyTorch, Scikit-learn, FastAPI, Git, Jupyter
 
 ---
-<br />
+
 <h2 align="left">📈 My Github History!</h2>
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=mixail0916&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
@@ -154,7 +149,7 @@
 
 <!-- ![Snake](https://github.com/mixail0916/mixail0916/blob/output/github-contribution-grid-snake.svg) -->
 
-<br><br>
+<br>
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mixail0916.mixail0916)](https://github.com/mixail0916)
 <p align="center">
