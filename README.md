@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=200&section=header&text=Mikhailo%20Pasko&fontSize=50&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Senior%20AI%20Engineer&descSize=20&descAlign=50&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=200&section=header&text=Welcome%20&fontSize=50&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Senior%20AI%20Engineer&descSize=20&descAlign=50&animation=twinkling" />
 </p>
 
 **A results-driven AI Engineer building and deploying end-to-end machine learning solutions. Skilled in everything from data pipeline development to production-ready model deployment. Expert in applying advanced deep learning, natural language processing (NLP), and cloud-native technologies to create scalable, intelligent systems that drive automation and innovation.**
@@ -143,15 +143,15 @@
 
 <h2 align="left">📈 My Github History!</h2>
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mixail0916&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixail0916&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Intelligence08&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intelligence08&theme=tokyonight" height="200"/>
 </div>
 
-<!-- ![Snake](https://github.com/mixail0916/mixail0916/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake](https://github.com/Intelligence08/Intelligence08/blob/output/github-contribution-grid-snake.svg) -->
 
 <br>
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mixail0916.mixail0916)](https://github.com/mixail0916)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Intelligence08.Intelligence08)](https://github.com/Intelligence08)
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=120&section=footer" />
 </p>
